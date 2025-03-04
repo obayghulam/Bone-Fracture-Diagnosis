@@ -21,7 +21,7 @@ This project uses a **fine-tuned EfficientNetV2** model to classify **bone fract
 
 | File/Folder      | Description |
 |------------------|--------------|
-| `Copy_of_Q1.ipynb` | Jupyter Notebook with full training pipeline |
+| `Bone Fracture Diagnosis.ipynb` | Jupyter Notebook with full training pipeline |
 | `images/`        | Sample X-ray images (optional) |
 | `README.md`      | Project documentation (this file) |
 
@@ -40,7 +40,7 @@ This project uses a **fine-tuned EfficientNetV2** model to classify **bone fract
 ## 🚀 How to Run
 
 1. Clone this repository.
-2. Open `Copy_of_Q1.ipynb` using Jupyter Notebook (or JupyterLab).
+2. Open `Bone Fracture Diagnosis.ipynb` using Jupyter Notebook (or JupyterLab).
 3. Follow the notebook cells to preprocess the data, load the model, train, and evaluate.
 
 ---
@@ -67,6 +67,3 @@ This project is open-source and available for educational purposes.
 
 ---
 
-### 📞 Contact
-
-For any questions or improvements, feel free to open an issue.
